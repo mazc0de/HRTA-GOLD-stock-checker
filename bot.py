@@ -5,7 +5,7 @@ import requests
 # CONFIG
 # =============================
 
-BOT_TOKEN = "8383695498:AAEdtuVKURrAvrgtVPDGAxULKw_BhsnEJTU"
+BOT_TOKEN = "8383695498:AAG3iyK2Uldaene9NS7g4Anc3BRozTOZuDc"
 
 PRODUCTS = [
     {
